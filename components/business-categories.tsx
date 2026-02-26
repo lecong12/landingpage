@@ -182,7 +182,7 @@ export default function BusinessCategories() {
                     src={Logo01}
                     width={32}
                     height={32}
-                    alt="Logo 01"
+                    alt="Biểu trưng 01"
                   />
                 </div>
               </div>
@@ -198,7 +198,7 @@ export default function BusinessCategories() {
                         src={Logo02}
                         width={23}
                         height={22}
-                        alt="Logo 02"
+                        alt="Biểu trưng 02"
                       />
                     </div>
                   </div>
@@ -211,7 +211,7 @@ export default function BusinessCategories() {
                         src={Logo03}
                         width={22}
                         height={22}
-                        alt="Logo 03"
+                        alt="Biểu trưng 03"
                       />
                     </div>
                   </div>
@@ -224,7 +224,7 @@ export default function BusinessCategories() {
                         src={Logo04}
                         width={24}
                         height={22}
-                        alt="Logo 04"
+                        alt="Biểu trưng 04"
                       />
                     </div>
                   </div>
@@ -237,7 +237,7 @@ export default function BusinessCategories() {
                         src={Logo05}
                         width={25}
                         height={25}
-                        alt="Logo 05"
+                        alt="Biểu trưng 05"
                       />
                     </div>
                   </div>
@@ -250,7 +250,7 @@ export default function BusinessCategories() {
                         src={Logo06}
                         width={20}
                         height={18}
-                        alt="Logo 06"
+                        alt="Biểu trưng 06"
                       />
                     </div>
                   </div>
@@ -263,7 +263,7 @@ export default function BusinessCategories() {
                         src={Logo07}
                         width={25}
                         height={25}
-                        alt="Logo 07"
+                        alt="Biểu trưng 07"
                       />
                     </div>
                   </div>
@@ -276,7 +276,7 @@ export default function BusinessCategories() {
                         src={Logo08}
                         width={20}
                         height={20}
-                        alt="Logo 08"
+                        alt="Biểu trưng 08"
                       />
                     </div>
                   </div>
@@ -289,7 +289,7 @@ export default function BusinessCategories() {
                         src={Logo09}
                         width={21}
                         height={13}
-                        alt="Logo 09"
+                        alt="Biểu trưng 09"
                       />
                     </div>
                   </div>

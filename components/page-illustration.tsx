@@ -14,7 +14,7 @@ export default function PageIllustration() {
           className="max-w-none"
           src={Stripes}
           width={768}
-          alt="Stripes"
+          alt="Sọc trang trí"
           priority
         />
       </div>

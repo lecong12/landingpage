@@ -26,42 +26,42 @@ export default function HeroHome() {
                   src={Avatar01}
                   width={32}
                   height={32}
-                  alt="Avatar 01"
+                  alt="Ảnh đại diện 01"
                 />
                 <Image
                   className="box-content rounded-full border-2 border-gray-50"
                   src={Avatar02}
                   width={32}
                   height={32}
-                  alt="Avatar 01"
+                  alt="Ảnh đại diện 02"
                 />
                 <Image
                   className="box-content rounded-full border-2 border-gray-50"
                   src={Avatar03}
                   width={32}
                   height={32}
-                  alt="Avatar 02"
+                  alt="Ảnh đại diện 03"
                 />
                 <Image
                   className="box-content rounded-full border-2 border-gray-50"
                   src={Avatar04}
                   width={32}
                   height={32}
-                  alt="Avatar 03"
+                  alt="Ảnh đại diện 04"
                 />
                 <Image
                   className="box-content rounded-full border-2 border-gray-50"
                   src={Avatar05}
                   width={32}
                   height={32}
-                  alt="Avatar 04"
+                  alt="Ảnh đại diện 05"
                 />
                 <Image
                   className="box-content rounded-full border-2 border-gray-50"
                   src={Avatar06}
                   width={32}
                   height={32}
-                  alt="Avatar 05"
+                  alt="Ảnh đại diện 06"
                 />
               </div>
             </div>
@@ -70,8 +70,8 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              The Website builder you're <br className="max-lg:hidden" />
-              looking for
+              Trình tạo trang web <br className="max-lg:hidden" />
+              bạn đang tìm kiếm
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
@@ -79,8 +79,8 @@ export default function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay={300}
               >
-                Simple is a modern website builder powered by AI that changes
-                how companies create user interfaces together.
+                Simple là một trình tạo trang web hiện đại được hỗ trợ bởi AI, thay đổi
+                cách các công ty cùng nhau tạo giao diện người dùng.
               </p>
               <div className="relative before:absolute before:inset-0 before:border-y before:[border-image:linear-gradient(to_right,transparent,--theme(--color-slate-300/.8),transparent)1]">
                 <div
@@ -93,7 +93,7 @@ export default function HeroHome() {
                     href="#0"
                   >
                     <span className="relative inline-flex items-center">
-                      Start Free Trial{" "}
+                      Bắt đầu dùng thử miễn phí{" "}
                       <span className="ml-1 tracking-normal text-blue-300 transition-transform group-hover:translate-x-0.5">
                         -&gt;
                       </span>
@@ -103,7 +103,7 @@ export default function HeroHome() {
                     className="btn w-full bg-white text-gray-800 shadow-sm hover:bg-gray-50 sm:ml-4 sm:w-auto"
                     href="#0"
                   >
-                    Learn More
+                    Tìm hiểu thêm
                   </a>
                 </div>
               </div>
@@ -118,7 +118,7 @@ export default function HeroHome() {
             <div className="relative aspect-video rounded-2xl bg-gray-900 px-5 py-3 shadow-xl before:pointer-events-none before:absolute before:-inset-5 before:border-y before:[border-image:linear-gradient(to_right,transparent,--theme(--color-slate-300/.8),transparent)1] after:absolute after:-inset-5 after:-z-10 after:border-x after:[border-image:linear-gradient(to_bottom,transparent,--theme(--color-slate-300/.8),transparent)1]">
               <div className="relative mb-8 flex items-center justify-between before:block before:h-[9px] before:w-[41px] before:bg-[length:16px_9px] before:[background-image:radial-gradient(circle_at_4.5px_4.5px,var(--color-gray-600)_4.5px,transparent_0)] after:w-[41px]">
                 <span className="text-[13px] font-medium text-white">
-                  cruip.com
+                  vidu.com
                 </span>
               </div>
               <div className="font-mono text-gray-500 [&_span]:opacity-0">
@@ -133,7 +133,7 @@ export default function HeroHome() {
                   --scope=@phanatic
                 </span>{" "}
                 <span className="animate-[code-4_10s_infinite]">
-                  Successfully logged-in.
+                  Đăng nhập thành công.
                 </span>
                 <br />
                 <br />
@@ -142,7 +142,7 @@ export default function HeroHome() {
                 </span>
                 <br />
                 <span className="animate-[code-6_10s_infinite]">
-                  Package published.
+                  Gói đã được xuất bản.
                 </span>
               </div>
             </div>

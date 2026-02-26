@@ -17,7 +17,7 @@ export default function Banner() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Download<span className="hidden sm:inline"> on GitHub</span>
+                Tải về<span className="hidden sm:inline"> trên GitHub</span>
               </a>{" "}
               <span className="px-1.5 italic">or</span>{" "}
               <a
@@ -26,7 +26,7 @@ export default function Banner() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Check Premium Version
+                Xem phiên bản Premium
               </a>
             </div>
             <button
